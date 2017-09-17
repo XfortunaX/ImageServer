@@ -1,0 +1,46 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^8.0.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "0.0.16",
+    "koa-json-body": "^5.3.0",
+    "koa-logger": "^3.0.1",
+    "koa-passport": "^4.0.0",
+    "koa-router": "^7.2.1",
+    "mongoose": "^4.11.10",
+    "passport-jwt": "^3.0.0",
+    "passport-local": "^1.0.0",
+    "require-tree": "^1.1.1",
+    "socket.io": "^2.0.3",
+    "socketio-jwt": "^4.5.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^8.0.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "0.0.16",
+    "koa-json-body": "^5.3.0",
+    "koa-logger": "^3.0.1",
+    "koa-passport": "^4.0.0",
+    "koa-router": "^7.2.1",
+    "mongoose": "^4.11.10",
+    "passport-jwt": "^3.0.0",
+    "passport-local": "^1.0.0",
+    "require-tree": "^1.1.1",
+    "socket.io": "^2.0.3",
+    "socketio-jwt": "^4.5.0"
+  }
+}
